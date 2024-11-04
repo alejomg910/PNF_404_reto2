@@ -8,5 +8,6 @@ diosmio
 
 
 |Color|Cantidad|Propietario|
+|---  |--      |-----------|
 |Rojo| 50 | Juan |
 |Azul |30      |Marcela    |
