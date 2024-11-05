@@ -11,3 +11,35 @@ diosmio
 |---  |--      |-----------|
 |Rojo| 50 | Juan |
 |Azul |30      |Marcela    |
+
+
+
+
+Tecto 1
+***
+
+texto 2
+---
+
+texto 3
+---
+---
+
+
+texto 4
+=
+
+texto 5
+======================
+
+texto 6
+***
+***
+
+
+Texto 7
+===
+
+Texto 8
+===
+---
