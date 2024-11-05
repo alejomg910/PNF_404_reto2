@@ -60,6 +60,7 @@ Texto 8
 2. tema b
 3. tema c
    * elige
+
    *\ una
    * opcion
 * que hice mal?
