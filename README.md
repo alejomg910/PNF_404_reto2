@@ -1,71 +1,18 @@
-# bug-free-meme_programacion_reto_2
-~~hola~~
-este es el primer repositorio
-`diosmio`
-
-
-[tutorial de youtube](https://www.youtube.com/watch?v=aZlAkGvvEqg)
-
-
-|Color|Cantidad|Propietario|
-|---  |--      |-----------|
-|Rojo| 50 | Juan |
-|Azul |30      |Marcela    |
-
-
-
-
-Tecto 1
-***
-
-texto 2
----
-
-texto 3
----
----
-
-
-texto 4
+bug-free-meme_programacion_reto_2
 =
 
-texto 5
-======================
+Buenas! Este es mi primer repositorio, y voy a iniciarlo con el reto número 2 del curso de _Programación de computadores_.
 
-texto 6
-***
-***
+El reto consiste en ejecutar el siguiente código:
 
+```
+if __name__ == "__main__" :
+  print("Hola mundo")
+```
 
-Texto 7
-===
+En 3 sitios distintos: El terminal de Windows, el interprete de python y Visual Studio Code.
 
-Texto 8
-===
----
-
-
-1. Lista
-2. Lista
-   * asdf
-* objeto no enlistado
-4. Lista
-
-+ primero
-+ segundo
-+ tercero
-
-
-1. tema a
-2. tema b
-3. tema c
-   * elige
-
-   \* una
-   * opcion
-* que hice mal?
-* asdasd
-
-
-
-![](Reto2VisualCode.png)
+1. Terminal:
+   
+3. Interprete:
+4. Visual Studio Code:
