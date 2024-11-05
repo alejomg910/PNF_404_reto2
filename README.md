@@ -68,4 +68,4 @@ Texto 8
 
 
 
-![](/Programacion/Reto2/Reto2VisualCode.png)
+![](Reto2VisualCode.png)
