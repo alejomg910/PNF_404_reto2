@@ -65,3 +65,7 @@ Texto 8
    * opcion
 * que hice mal?
 * asdasd
+
+
+
+![](/Programacion/Reto2/Reto2VisualCode.png)
