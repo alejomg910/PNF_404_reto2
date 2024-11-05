@@ -47,7 +47,10 @@ Texto 8
 
 1. Lista
 2. Lista
-   *asdf
-*objeto no enlistado
+   * asdf
+* objeto no enlistado
 4. Lista
 
++ primero
++ segundo
++ tercero
