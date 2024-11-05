@@ -54,3 +54,15 @@ Texto 8
 + primero
 + segundo
 + tercero
+
+
+1. tema a
+   1.1. tema a.a
+   1.2. tema a.b
+2. tema b
+3. tema c
+   * elige
+   * una
+   * opcion
+* que hice mal?
+* asdasd
