@@ -47,7 +47,7 @@ Texto 8
 
 1. Lista
 2. Lista
-3. Lista
-   
-*subitem no ordenado
-*\subitem no ordenado
+   *asdf
+*objeto no enlistado
+4. Lista
+
