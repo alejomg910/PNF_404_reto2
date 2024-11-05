@@ -61,7 +61,7 @@ Texto 8
 3. tema c
    * elige
 
-   *\ una
+   \* una
    * opcion
 * que hice mal?
 * asdasd
