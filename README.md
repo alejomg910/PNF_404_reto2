@@ -13,7 +13,10 @@ if __name__ == "__main__" :
 En 3 sitios distintos: El terminal de Windows, el interprete de python y Visual Studio Code.
 
 1. Terminal:
-   ![](Reto2Terminal)
+   ![](Reto2Terminal.png)
 
 2. Interprete de python:
-   ![](Reto2Interprete)
+   ![](Reto2Interprete.png)
+
+3. Visual Studio Code:
+   ![](Reto2VisualCode.png)
