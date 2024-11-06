@@ -1,4 +1,4 @@
-bug-free-meme_programacion_reto_2
+PNF_404_reto_2
 =
 
 Buenas! Este es mi primer repositorio, y voy a iniciarlo con el reto número 2 del curso de _Programación de computadores_.
